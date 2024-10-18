@@ -1,3 +1,3 @@
-# Dj_Arm
+# Robotic Arm
 This is a simple project created using arduino nano ,servo motors and potentiometers.
 
